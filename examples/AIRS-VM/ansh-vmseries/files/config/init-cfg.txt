@@ -1,0 +1,10 @@
+mgmt-interface-swap = "disable"
+panorama-server =cloud
+dgname =All Firewalls
+dhcp-send-hostname = "yes"
+dhcp-send-client-id = "yes"
+dhcp-accept-server-hostname = "yes"
+dhcp-accept-server-domain = "yes"
+plugin-op-commands = "advance-routing:enable"
+vm-series-auto-registration-pin-id=59e46212-45ea-4ccc-a04e-d14d36327cf3
+vm-series-auto-registration-pin-value=221a3295794047cb9431935c6f2c9ba3
